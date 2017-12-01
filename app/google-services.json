@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027696855790",
+    "firebase_url": "https://welpletcompras.firebaseio.com",
+    "project_id": "welpletcompras",
+    "storage_bucket": "welpletcompras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027696855790:android:ed0083b55351db79",
+        "android_client_info": {
+          "package_name": "welplet.com.compras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027696855790-etmuovd0tibvasqi14ju1evlkl0kcrgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxIccLx9nvjuj1423-bbeYBhgItcZgPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
